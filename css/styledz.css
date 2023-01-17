@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    color: #000000;
+    word-wrap: inherit;
+    line-height: 0.1px;
+    font-family: 'Lobster', cursive;
+    }
+
+h4{
+    margin-left: 50px;
+    width: 400px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    font-weight: 50;
+}
+
+.div1{
+    line-height: 20px;
+    font-family: 'Rampart One', cursive;
+
+}
+
+.special{
+    list-style-type: "-";
+    font-family: 'Oswald', sans-serif;
+   font-size: 1.3rem;
+   font-weight: 200;
+   line-height: 0%;
+
+}
+.work{
+    list-style-type: "~";
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+    line-height: 0%;
+}
+body{
+    background-image: url("assets/pngwing2.png");
+    background-color: darkgoldenrod;
+    
+    
+}
+.dosvid{
+    list-style-type: "*";
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.1em;
+}
+.div1{
+    line-height: 1.1em;
+}
+i{
+    color: black;
+    font-size: 15px;
+    
+} 
+img{
+    display: inline;
+    width: 250px;
+    height: auto;
+    margin: 0 43%;
+}
+audio{
+    float: right;
+}

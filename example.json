@@ -1,0 +1,21 @@
+{
+    
+    "privat date" : 
+    {
+        "name" : "Serhii ",
+        "lastname" : "Yaroshkin",
+        "birthday" : "15.12.1994",
+        "number" : "063-698-83-58"
+    },
+
+    "education" :
+    {
+        "technical" : "DTSE i.o Paton",
+        "special" : "computer and networks service"
+    },
+    "about work" :
+    {
+        "work" : "seven years on company 'VOLIA'",
+        "job title" : "engineer"
+    }
+}
